@@ -1,4 +1,4 @@
-## Pre-processed data ready for regression analysis
+## Data ready for regression analysis
 
 ### inde_log_{100,200,300,400}_new.csv
 
