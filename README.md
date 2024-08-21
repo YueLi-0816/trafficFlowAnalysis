@@ -8,7 +8,7 @@ This github repo deposits the data statement and code we used for our research p
 
 ## Realted resources
 
-  * The traffic flow data can be downloaded at: [Urban Big Data Centre (UBDC)](https://data.ubdc.ac.uk/datasets/high-resolution-traffic-flow-data-from-the-urban-traffic-control-system-in-glasgow) and <https://zenodo.org/records/12100278>.
+  * The pre-processed (research-ready) traffic flow data can be downloaded at: [Urban Big Data Centre (UBDC)](https://data.ubdc.ac.uk/datasets/high-resolution-traffic-flow-data-from-the-urban-traffic-control-system-in-glasgow) and <https://zenodo.org/records/12100278>.
   * The Preprint paper is available at: <https://osf.io/preprints/osf/qgf2j>.
     
 ## Funding 
