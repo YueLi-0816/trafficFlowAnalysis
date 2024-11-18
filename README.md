@@ -12,7 +12,7 @@ Li, Y., Zhao, Q. and Wang, M. (2024) Understanding urban traffic flows in respon
 
 ## Realted resources
 
-  * The pre-processed (research-ready) traffic flow data can be downloaded at: [Urban Big Data Centre (UBDC)](https://data.ubdc.ac.uk/datasets/high-resolution-traffic-flow-data-from-the-urban-traffic-control-system-in-glasgow) and <https://zenodo.org/records/12100278>.
+The pre-processed (research-ready) traffic flow data can be downloaded at: [Urban Big Data Centre (UBDC)](https://data.ubdc.ac.uk/datasets/high-resolution-traffic-flow-data-from-the-urban-traffic-control-system-in-glasgow) and <https://zenodo.org/records/12100278>.
     
 ## Funding 
 
