@@ -8,7 +8,7 @@ This github repo deposits the data statement and code we used for our research p
 
 ## Paper citation
 
-Li, Y. , Zhao, Q. and Wang, M. (2024) Understanding urban traffic flows in response to COVID-19 pandemic with emerging urban big data in Glasgow. Cities, 154, 105381. https://doi.org/10.1016/j.cities.2024.105381.
+Li, Y., Zhao, Q. and Wang, M. (2024) Understanding urban traffic flows in response to COVID-19 pandemic with emerging urban big data in Glasgow. Cities, 154, 105381. https://doi.org/10.1016/j.cities.2024.105381.
 
 ## Realted resources
 
